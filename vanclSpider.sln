@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vanclSpiderConsole", "vancl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZaraSpider", "ZaraSpider\ZaraSpider.csproj", "{D3EBEBCB-5105-4715-977D-F1EFD80EFDBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMSpider", "HMSpider\HMSpider.csproj", "{AB2CFED3-DAA1-4796-BA00-691A96D70370}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D3EBEBCB-5105-4715-977D-F1EFD80EFDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3EBEBCB-5105-4715-977D-F1EFD80EFDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3EBEBCB-5105-4715-977D-F1EFD80EFDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2CFED3-DAA1-4796-BA00-691A96D70370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2CFED3-DAA1-4796-BA00-691A96D70370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2CFED3-DAA1-4796-BA00-691A96D70370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2CFED3-DAA1-4796-BA00-691A96D70370}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
